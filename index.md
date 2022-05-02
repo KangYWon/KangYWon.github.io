@@ -5,7 +5,7 @@ categories:
   - Blog   
 tags:   
   - Blog   
-last_modified_at:{{ page.last_modified_at }}.   
+last_modified_at:2022.05.02.20:43.   
 ---  
   
 이 글의 제목은 {{ page.title }}이고. 
